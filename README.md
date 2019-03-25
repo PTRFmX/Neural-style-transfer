@@ -26,7 +26,7 @@ Simple implementation of neural style transfer
 --content: content file path  
 --style: style file path  
 --output: output file path  
---model: model path (suggested: 'pretrained_model/imagenet-vgg-verydeep-19.mat')  
+--model: model path (example: 'pretrained_model/imagenet-vgg-verydeep-19.mat')  
   
 *Optional:*  
 --iterations: number of iterations that you'd like to train  
